@@ -39,7 +39,7 @@ const Navbar = ({clickHandler}) => {
                         </ul>
                         
                         <div className="nav-btn">
-                            <LinkR to="/signin" className="nav-btn-link">sign in</LinkR>
+                            <a href="tel:+13109099358" className="nav-btn-link">call us</a>
                         </div>
                         
                     </div>

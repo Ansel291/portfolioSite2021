@@ -1,5 +1,4 @@
 import './Sidebar.css';
-import { Link as LinkR } from 'react-router-dom';
 import { Link as LinkS } from 'react-scroll';
 import { FaTimes } from 'react-icons/fa';
 
@@ -27,9 +26,7 @@ const Sidebar = ({isOpen, clickHandler}) => {
                         </LinkS>
                     </div>
                     <div className="side-btn-wrap">
-                        <LinkR to="/signin" onClick={clickHandler} className="sidebar-link-r">
-                            sign in
-                        </LinkR>
+                        <a href="tel:+13109099358" onClick={clickHandler} className="sidebar-link-r">call us</a>
                     </div>
                 </div>
             </aside>
