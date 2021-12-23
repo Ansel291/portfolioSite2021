@@ -40,7 +40,6 @@ const Navbar = ({clickHandler}) => {
                         
                         <div className="nav-btn">
                             <LinkR to="/signin" className="nav-btn-link">sign in</LinkR>
-                            {/*<a href="mailto:jasahara@yahoo.com" className="nav-btn-link">email now</a>*/}
                         </div>
                         
                     </div>

@@ -15,8 +15,6 @@ const Home = () => {
         setIsOpen(!isOpen)
     }
     
-    {/* const toggledClass = isOpen ? 'sidebar-container' : 'sidebar-container hide-sidebar-container'  */}
-
     return (
         <>
             <Sidebar clickHandler={clickHandler} isOpen={isOpen}/>
