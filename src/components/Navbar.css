@@ -1,6 +1,6 @@
 .navbar {
     background: #d3d3d3;
-    height: 70px;
+    height: 64px;
     /* margin-top: -70px; */
     display: flex;
     justify-content: center;
@@ -14,7 +14,7 @@
 .navbar-container {
     display: flex;
     justify-content: space-between;
-    height: 70px;
+    height: 64px;
     z-index: 1;
     width: 100%;
     padding: 0 24px; 
@@ -38,7 +38,7 @@
 .mobile-icon {
     display: block;
     position: absolute;
-    top: 0;
+    top: -3px;
     right: 0;
     transform: translate(-100%, 55%);
     font-size: 1.8rem;
