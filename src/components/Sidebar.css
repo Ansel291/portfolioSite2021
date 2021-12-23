@@ -8,7 +8,7 @@
     align-items: center;
     left: 0;
     transition: 0.3s ease-in-out;
-    opacity: 100%;
+    opacity: 1;
     top: 0;
 }
 
