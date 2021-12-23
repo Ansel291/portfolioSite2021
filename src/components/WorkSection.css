@@ -1,0 +1,21 @@
+.work-row-1 {
+    text-align: center;
+    padding: 70px 0;
+}
+
+.work-headline {
+    width: 50%;
+    margin: 0 auto;
+    padding: 15px 0;
+    font-family: "Raleway", sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    text-transform: capitalize;
+    border-bottom: 1px solid #ccc;
+}
+
+@media(min-width: 768px) {
+    .work-headline {
+        font-size: 36px;
+    }
+}
