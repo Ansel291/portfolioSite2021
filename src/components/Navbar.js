@@ -1,7 +1,6 @@
 import './Navbar.css';
 import { FaBars } from 'react-icons/fa'
 import { Link as LinkR} from 'react-router-dom'
-/* import { Link as LinkNav} from 'react-router-dom' */ 
 import { Link as LinkS } from 'react-scroll'
 import {IconContext } from 'react-icons/lib'
 import { animateScroll as scroll} from 'react-scroll'
