@@ -14,6 +14,9 @@
 .local-city {
     background: url(../images/divider4-opt-mob.jpg) no-repeat center / cover;   
 }
+.travel-blog {
+    background: url(../images/divider7-opt-mob.jpg) no-repeat center / cover;   
+}
 
 .work-row-3 {
     display: flex;
@@ -120,6 +123,9 @@
     .local-city {
         background: url(../images/divider4-opt-tab.jpg) no-repeat center / cover;   
     }
+    .travel-blog {
+        background: url(../images/divider7-opt-tab.jpg) no-repeat center / cover;   
+    }
 }
 
 @media(min-width: 768px) {
@@ -135,6 +141,9 @@
     }
     .local-city {
         background: url(../images/divider4-opt-desk.jpg) no-repeat center / cover;   
+    }
+    .travel-blog {
+        background: url(../images/divider7-opt-desk.jpg) no-repeat center / cover;   
     }
     
     .work-row-3 {
