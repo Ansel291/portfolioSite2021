@@ -5,7 +5,7 @@ const data = [
     id: 1,
     title: 'Package Tracker',
     description:
-      'A crud app that helps a company keep track of the status of their packages that is being shipped to their clients',
+      'A crud app that helps a company keep track of the status of their packages that is being shipped to their clients.',
     tools: 'React, JavaScript, CSS, Netlify',
     altSide: 'Package Tracker Side',
     mainClass: 'package-tracker',
