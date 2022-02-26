@@ -11,7 +11,7 @@ const data = [
     mainClass: 'package-tracker',
     sideImage: './images/macbookPackageTracker-opt.jpg',
     projectUrl: 'https://package-tracker-ja.netlify.app/',
-    github: 'https://github.com/Ansel291/packageTrackerApp',
+    github: 'https://github.com/Ansel291/packageTrackerApp/tree/jsonServer',
     ctaColor: 'blue',
   },
   {
