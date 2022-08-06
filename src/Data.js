@@ -9,10 +9,10 @@ const data = [
     tools: 'React, JavaScript, Tailwind.css, DaisyUI, Vercel',
     altSide: 'Weather App Side',
     mainClass: 'weather-app',
-    sideImage: './images/macbookPackageTracker-opt.jpg',
+    sideImage: './images/macbookWeatherApp-opt.jpg',
     projectUrl: 'https://weather-app-ja.vercel.app/',
     github: 'https://github.com/Ansel291/weatherApp',
-    ctaColor: 'orange',
+    ctaColor: 'yellow',
   },
   {
     id: 2,

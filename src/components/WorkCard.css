@@ -70,7 +70,8 @@
 
 .orange,
 .blue,
-.red {
+.red,
+.yellow {
   display: inline-block;
   font-family: 'Lato';
   font-weight: 300;
@@ -114,6 +115,13 @@
 }
 .red:hover {
   background-color: #d2322d;
+}
+
+.yellow {
+  background-color: #f7c701;
+}
+.yellow:hover {
+  background-color: #ecbe01;
 }
 
 @media (min-width: 415px) {
