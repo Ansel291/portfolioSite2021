@@ -20,6 +20,9 @@
 .package-tracker {
   background: url(../images/divider8-opt-mob.jpg) no-repeat center / cover;
 }
+.weather-app {
+  background: url(../images/divider9-opt-mob.jpg) no-repeat center / cover;
+}
 
 .work-row-3 {
   display: flex;
@@ -132,6 +135,9 @@
   .package-tracker {
     background: url(../images/divider8-opt-tab.jpg) no-repeat center / cover;
   }
+  .weather-app {
+    background: url(../images/divider9-opt-tab.jpg) no-repeat center / cover;
+  }
 }
 
 @media (min-width: 768px) {
@@ -152,6 +158,9 @@
   }
   .package-tracker {
     background: url(../images/divider8-opt-desk.jpg) no-repeat center / cover;
+  }
+  .weather-app {
+    background: url(../images/divider9-opt-desk.jpg) no-repeat center / cover;
   }
 
   .work-row-3 {
