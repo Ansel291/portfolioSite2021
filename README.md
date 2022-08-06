@@ -1,4 +1,4 @@
-# Portfolio Site - a
+# Portfolio Site
 
 ## Overview:
 
