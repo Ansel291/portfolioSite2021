@@ -5,8 +5,8 @@ const data = [
     id: 1,
     title: 'Weather App',
     description:
-      'A weather app that searches for live current weather conditions by city or zip code with 3-day and 24-hour temperature forecast for the current day.',
-    tools: 'React, JavaScript, Tailwind.css, daisyUI, Vercel',
+      'A weather app that searches for live current weather conditions by city or zip code with 3-day and 24-hour temperature.',
+    tools: 'React, JavaScript, Tailwind.css, DaisyUI, Vercel',
     altSide: 'Weather App Side',
     mainClass: 'weather-app',
     sideImage: './images/macbookPackageTracker-opt.jpg',
