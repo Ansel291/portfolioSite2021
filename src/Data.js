@@ -5,7 +5,7 @@ const data = [
     id: 1,
     title: 'Weather App',
     description:
-      'A weather app that searches for live current weather conditions by city or zip code with 3-day and 24-hour temperature.',
+      'A weather app that searches for live current weather conditions by city or zip code with 3-day and 24-hour temperatures.',
     tools: 'React, JavaScript, Tailwind.css, DaisyUI, Vercel',
     altSide: 'Weather App Side',
     mainClass: 'weather-app',
