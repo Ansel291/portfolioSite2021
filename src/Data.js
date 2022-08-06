@@ -8,7 +8,7 @@ const data = [
       'A weather app that searches for live current weather conditions by city or zip code with 3-day and 24-hour temperature forecast for the current day.',
     tools: 'React, JavaScript, Tailwind.css, daisyUI, Vercel',
     altSide: 'Weather App Side',
-    mainClass: 'weather-app',
+    mainClass: 'package-tracker',
     sideImage: './images/macbookPackageTracker-opt.jpg',
     projectUrl: 'https://weather-app-ja.vercel.app/',
     github: 'https://github.com/Ansel291/weatherApp',
