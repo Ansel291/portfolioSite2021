@@ -12,7 +12,7 @@ const data = [
     sideImage: './images/macbookWeatherApp-opt.jpg',
     projectUrl: 'https://weather-app-ja.vercel.app/',
     github: 'https://github.com/Ansel291/weatherApp',
-    ctaColor: 'yellow',
+    ctaColor: 'grey',
   },
   {
     id: 2,
