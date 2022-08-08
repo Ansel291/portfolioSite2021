@@ -118,10 +118,10 @@
 }
 
 .yellow {
-  background-color: #f7c701;
+  background-color: #e6b900;
 }
 .yellow:hover {
-  background-color: #ecbe01;
+  background-color: #deb200;
 }
 
 @media (min-width: 415px) {
