@@ -126,10 +126,10 @@
 }
 
 .grey {
-  background-color: #b2ab89;
+  background-color: #b7b4a5;
 }
 .grey:hover {
-  background-color: #969076;
+  background-color: #919191;
 }
 
 @media (min-width: 415px) {
