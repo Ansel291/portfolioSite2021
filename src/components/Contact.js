@@ -10,7 +10,7 @@ function Contact() {
         <div id='contact' className='contact-container'>
           <div className='contact-wrapper'>
             <div className='contact-row'>
-              <h2 className='contact-headline'>Honolulu, Hi</h2>
+              <h2 className='contact-headline'>Honolulu, HI</h2>
               <ul className='contact-ul'>
                 <li className='contact-li'>
                   <a href='tel:+13109099358' className='contact-a'>
