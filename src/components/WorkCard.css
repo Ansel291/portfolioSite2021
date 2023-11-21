@@ -23,6 +23,9 @@
 .weather-app {
   background: url(../images/divider9-opt-mob.jpg) no-repeat center / cover;
 }
+.homefinder-app {
+  background: url(../images/divider10-opt-mob.webp) no-repeat center / cover;
+}
 
 .work-row-3 {
   display: flex;
@@ -154,6 +157,9 @@
   .weather-app {
     background: url(../images/divider9-opt-tab.jpg) no-repeat center / cover;
   }
+  .homefinder-app {
+    background: url(../images/divider10-opt-tab.webp) no-repeat center / cover;
+  }
 }
 
 @media (min-width: 768px) {
@@ -177,6 +183,9 @@
   }
   .weather-app {
     background: url(../images/divider9-opt-desk.jpg) no-repeat center / cover;
+  }
+  .homefinder-app {
+    background: url(../images/divider10-opt-desk.webp) no-repeat center / cover;
   }
 
   .work-row-3 {

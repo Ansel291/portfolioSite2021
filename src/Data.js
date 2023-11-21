@@ -3,6 +3,20 @@
 const data = [
   {
     id: 1,
+    title: 'HomeFinder App',
+    description:
+      'A real estate app that allows sellers to list and visitors to view property listings in order to buy/sell/rent their properties.',
+    tools:
+      'React, JavaScript, Tailwind CSS, HeadlessUI, Vercel, Google OAuth, Firebase, Firestore, Leaflet, Swiper',
+    altSide: 'Weather App Side',
+    mainClass: 'homefinder-app',
+    sideImage: './images/macbookHomeFinder-opt.webp',
+    projectUrl: 'https://home-finder-app-ja.vercel.app/',
+    github: 'https://github.com/Ansel291/homeFinderApp',
+    ctaColor: 'orange',
+  },
+  {
+    id: 2,
     title: 'Weather App',
     description:
       'A weather app that searches for live weather conditions by city or zip code with 3-day forecast and 24-hour temperatures.',
@@ -15,7 +29,7 @@ const data = [
     ctaColor: 'grey',
   },
   {
-    id: 2,
+    id: 3,
     title: 'Package Tracker',
     description:
       'A crud app that helps a company keep track of the status of their packages that is being shipped to their clients.',
@@ -28,7 +42,7 @@ const data = [
     ctaColor: 'blue',
   },
   {
-    id: 3,
+    id: 4,
     title: 'Travel Blog',
     description:
       'A photography travel blog detailing my recent travels in order to document the places I have travelled to recently.',
@@ -41,7 +55,7 @@ const data = [
     ctaColor: 'blue',
   },
   {
-    id: 4,
+    id: 5,
     title: 'Wanted: Dead or Alive',
     description:
       'A timed two-player memory game that involves matching the most famous lawmen/outlaws in the history of the American West.',
@@ -54,7 +68,7 @@ const data = [
     ctaColor: 'orange',
   },
   {
-    id: 5,
+    id: 6,
     title: 'Cheap Eats of LA',
     description:
       'An online blog that allows users to communicate with other users by posting restaurant dishes around Los Angeles and posting reviews.',
@@ -67,7 +81,7 @@ const data = [
     ctaColor: 'blue',
   },
   {
-    id: 6,
+    id: 7,
     title: 'Restful Crawl',
     description:
       'Co-Developed Restful Crawl, a group project where our team created an App that allows users to search restaurants, and create a restaurant itinerary to be shared with their friends by replacing text-heavy content with images and maps.',
@@ -81,7 +95,7 @@ const data = [
     ctaColor: 'orange',
   },
   {
-    id: 7,
+    id: 8,
     title: 'Local City',
     description:
       'An App that allows users to search for points of interest on a map and to have each location displayed, and lists an index with a description that matches each location. It is currently in alpha stage of development.',
