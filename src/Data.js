@@ -69,19 +69,6 @@ const data = [
   },
   {
     id: 6,
-    title: 'Cheap Eats of LA',
-    description:
-      'An online blog that allows users to communicate with other users by posting restaurant dishes around Los Angeles and posting reviews.',
-    tools: 'Amazon Web Services, Boostrap, Javascript, Ruby on Rails',
-    altSide: 'Cheap Eats of LA Side',
-    mainClass: 'cheap-eats',
-    sideImage: './images/macbookCheapEats-opt.jpg',
-    projectUrl: 'https://mighty-stream-1020.herokuapp.com/',
-    github: 'https://github.com/Ansel291/cheap_eats_two',
-    ctaColor: 'blue',
-  },
-  {
-    id: 7,
     title: 'Restful Crawl',
     description:
       'Co-Developed Restful Crawl, a group project where our team created an App that allows users to search restaurants, and create a restaurant itinerary to be shared with their friends by replacing text-heavy content with images and maps.',
@@ -95,7 +82,7 @@ const data = [
     ctaColor: 'orange',
   },
   {
-    id: 8,
+    id: 7,
     title: 'Local City',
     description:
       'An App that allows users to search for points of interest on a map and to have each location displayed, and lists an index with a description that matches each location. It is currently in alpha stage of development.',
